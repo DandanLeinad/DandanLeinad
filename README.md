@@ -1,15 +1,8 @@
-# Daniel
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-## Sobre Mim
-Meu nome é Daniel, sou estudante de Sistemas para Internet e um entusiasta da tecnologia apaixonado por aprender e colaborar em projetos interessantes.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Daniel;I'm+19+years+old;I'm+from+Brazil;Data+Scientist+;Be+Welcome!+%3AD)](https://git.io/typing-svg)
 
-## Tecnologias que estou me aperfeiçoando 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-## Projetos Destacados
-- [Sistema bancário usando Python](https://github.com/DandanLeinad/Sistema-Bancario-usando-Python): Este projeto foi desenvolvido como parte de um desafio proposto pela Digital Innovation One (DIO). Trata-se de um sistema bancário básico implementado em Python.
-
-## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-3287aa278/)
+### Main skills: 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
